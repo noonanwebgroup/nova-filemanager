@@ -8,8 +8,8 @@
     ],
     "license": "MIT",
     "require": {
-        "php": ">=7.1.0",
-        "laravel/nova": "^4.0",
+        "php": ">=8.1.0",
+        "laravel/nova": "^5.0",
         "pion/laravel-chunk-upload": "^1.5",
         "stepanenko3/laravel-helpers": "*",
         "stepanenko3/laravel-pagination": "*"
